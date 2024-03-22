@@ -1,5 +1,5 @@
-This is a python program that analyzes DnD (Dungeons & Dragons) monster stats, analyzes the data and creates statistical graphs.
-No statistics library like Pandas or NumPy were used.
+This is a python program that analyzes DnD (Dungeons & Dragons) monster stats, analyzes the speed and challenge rating and creates statistical graphs on them.
+Statistics libraries like Pandas or NumPy were not used.
 
 This was created in "Python" class in the second semester of my second year in Computer Engineering. Detailed analysis Below.
 
